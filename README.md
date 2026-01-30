@@ -1,10 +1,15 @@
-ПРОЕКТ №2
-Прогноз погоды, написанный на языке JavaScript с применением технологии rest api
-В данной работе используется адаптивная верстка
+Сайт просмотра погоды, написанный на языке JavaScript с применением технологии rest api, используется адаптивная верстка.
 
-Скрин работающей программы с компьютера:
 ![image](https://github.com/LaLuceForte/2.-Weather-forecast-js/assets/99562801/a28bfd31-5722-497e-89c6-04ca9ad22ed8)
 
-и с телефона:
-![image](https://github.com/LaLuceForte/2.-Weather-forecast-js/assets/99562801/44a9aa8e-6bfe-4aab-8c2b-f0f7e91321a1)
+Запуск:
 
+```
+git clone https://github.com/LaLuceForte/2.-Weather-forecast-js
+cd 2.-Weather-forecast-js
+npm i
+npm start
+```
+
+Ссылка для просмотра работы приложения из браузера:
+https://weatherforecast-gold.vercel.app/
